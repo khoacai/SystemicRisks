@@ -1,3 +1,14 @@
+/*===================================================
+*
+* BANKRISKINESS AT MARKET EXTREME LOSSES (2025)
+* 
+* Purpose:  A program to compile the final sample dataset
+* Language:	SAS for Windows
+* Authors:	Khoa Cai
+* Date:		April 2025
+*
+*===================================================*/
+
 
 %let path=W:\V2;
 %let indbpathroot=D:\08_CDW;
