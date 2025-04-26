@@ -1,3 +1,17 @@
+/*===================================================
+*
+* BANKRISKINESS AT MARKET EXTREME LOSSES (2025)
+* 
+* Purpose:  A program for regression analyses
+* Language:	Stata for Windows
+* Authors:	Khoa Cai
+* Date:		April 2025
+* Reference: customized from the work of (Van Oordt and Zhou, 2018)
+*Van Oordt, M., Zhou, C., 2018. Systemic risk and bank business models. Journal of
+*Applied Econometrics 34, 365–384. https://doi.org/10.1002/jae.2666
+*===================================================*/
+
+
 /*
 
 ssc install asdoc
